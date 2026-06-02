@@ -1,7 +1,7 @@
 {
   "name": "@extra-wallet/hd-derivations",
   "version": "1.0.0-beta.6",
-  "license": "PolyForm-Noncommercial-1.0.0",
+  "license": "MIT",
   "description": "",
   "main": "./build/node/index.js",
   "browser": "./build/browser/index.js",

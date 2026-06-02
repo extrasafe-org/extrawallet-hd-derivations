@@ -6,7 +6,7 @@
 [@babel/runtime@7.28.6](https://github.com/babel/babel) - MIT
 [@binance-chain/javascript-sdk@4.2.2](undefined) - Apache-2.0
 [@emurgo/cardano-serialization-lib-nodejs@14.1.2](https://github.com/Emurgo/cardano-serialization-lib) - MIT
-[@extra-wallet/hd-derivations@1.0.0-beta.5](https://github.com/morethanwallet/hd-derivations) - PolyForm-Noncommercial-1.0.0
+[@extra-wallet/hd-derivations@1.0.0-beta.5](https://github.com/morethanwallet/hd-derivations) - MIT
 [@gql.tada/cli-utils@1.7.2](https://github.com/0no-co/gql.tada) - MIT
 [@gql.tada/internal@1.0.8](https://github.com/0no-co/gql.tada) - MIT
 [@graphql-typed-document-node/core@3.2.0](https://github.com/dotansimha/graphql-typed-document-node) - MIT
